@@ -1,0 +1,4 @@
+分别测泰福特和X72的1PPS(start)与自身10MHz信号(stop)；使用E:\initial\SR620_single
+计算ADEV
+Delta_T_true：1PPS对应
+Delta_T：泰福特对应的
