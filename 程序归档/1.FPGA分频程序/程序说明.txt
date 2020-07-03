@@ -1,0 +1,7 @@
+X72_PPSOUT_AB21_v1_Quartus13：
+
+FPGA分频延迟原始程序；1PPS输出口为AB21；使用Quartus13编写，由于Quartus13没有EPCQ64A，故程序固化会失败！
+
+X72_PPSOUT_Y20_v2_Quartus17：
+
+FPGA分频延迟修改后程序：重新设置了1PPS输出脉宽；1PPS输出口为Y20，频率输出口为AB21；采用Quartus17编写，可以固化！
